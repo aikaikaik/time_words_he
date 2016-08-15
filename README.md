@@ -2,5 +2,6 @@
 A standardization of Hebrew time phrases.
 ## How serious is this?
 This is partly a parody of [rfc2119](https://tools.ietf.org/html/rfc2119), but we do intend to use it practicaly and you definetly SHOULD shame those who don't complay to it.
-## future reference
-we SHOULD use this tool: https://tools.ietf.org/tools/rfcmarkup/webservice to render the documents as html, but if that fails we could hand code and copy stuff from other generated docs.
+## formating
+depending on when you see this the contents of this repo MAY or MAY NOT follow these guidelines.
+The main format of the drafts and later standard be defined as [rfc7749](http://xml2rfc.ietf.org/rfc7749.html). The XML SHOULD be converted to other formats using [xml2rfc](http://xml2rfc.ietf.org). Remember to use CData for hebrew text.
