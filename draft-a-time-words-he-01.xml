@@ -10,21 +10,21 @@
 <rfc category="exp" consensus="no" docName="draft-a-time-words-he-01.xml" ipr="none" submissionType="independent" xml:lang="he">
   <front>
     <title>
-      <![CDATA[הצעה לסטנדרט מילות זמן בעברית]]>
+      &#x5D4;&#x5E6;&#x5E2;&#x5D4; &#x5DC;&#x5E1;&#x5D8;&#x5E0;&#x5D3;&#x5E8;&#x5D8; &#x5DE;&#x5D9;&#x5DC;&#x5D5;&#x5EA; &#x5D6;&#x5DE;&#x5DF; &#x5D1;&#x5E2;&#x5D1;&#x5E8;&#x5D9;&#x5EA;
     </title>
     <author initials="A. (i) K." surname="K."></author>
     <date year="2016" month="August"/>
     <abstract>
-      <t><![CDATA[
-בדיבור יום יומי נעשה שימוש במילים לא פורמליות לציון טווחי זמן מסוימים. הם מובנים לרוב על ידי האינטואיציה של כל אדם באופן שונה. מטרת התקן הזה היא להסיר את חוסר ההבנה ולהגדיר באופן פורמלי את המילים הללו.
-]]></t>
+      <t>
+&#x5D1;&#x5D3;&#x5D9;&#x5D1;&#x5D5;&#x5E8; &#x5D9;&#x5D5;&#x5DD; &#x5D9;&#x5D5;&#x5DE;&#x5D9; &#x5E0;&#x5E2;&#x5E9;&#x5D4; &#x5E9;&#x5D9;&#x5DE;&#x5D5;&#x5E9; &#x5D1;&#x5DE;&#x5D9;&#x5DC;&#x5D9;&#x5DD; &#x5DC;&#x5D0; &#x5E4;&#x5D5;&#x5E8;&#x5DE;&#x5DC;&#x5D9;&#x5D5;&#x5EA; &#x5DC;&#x5E6;&#x5D9;&#x5D5;&#x5DF; &#x5D8;&#x5D5;&#x5D5;&#x5D7;&#x5D9; &#x5D6;&#x5DE;&#x5DF; &#x5DE;&#x5E1;&#x5D5;&#x5D9;&#x5DE;&#x5D9;&#x5DD;. &#x5D4;&#x5DD; &#x5DE;&#x5D5;&#x5D1;&#x5E0;&#x5D9;&#x5DD; &#x5DC;&#x5E8;&#x5D5;&#x5D1; &#x5E2;&#x5DC; &#x5D9;&#x5D3;&#x5D9; &#x5D4;&#x5D0;&#x5D9;&#x5E0;&#x5D8;&#x5D5;&#x5D0;&#x5D9;&#x5E6;&#x5D9;&#x5D4; &#x5E9;&#x5DC; &#x5DB;&#x5DC; &#x5D0;&#x5D3;&#x5DD; &#x5D1;&#x5D0;&#x5D5;&#x5E4;&#x5DF; &#x5E9;&#x5D5;&#x5E0;&#x5D4;. &#x5DE;&#x5D8;&#x5E8;&#x5EA; &#x5D4;&#x5EA;&#x5E7;&#x5DF; &#x5D4;&#x5D6;&#x5D4; &#x5D4;&#x5D9;&#x5D0; &#x5DC;&#x5D4;&#x5E1;&#x5D9;&#x5E8; &#x5D0;&#x5EA; &#x5D7;&#x5D5;&#x5E1;&#x5E8; &#x5D4;&#x5D4;&#x5D1;&#x5E0;&#x5D4; &#x5D5;&#x5DC;&#x5D4;&#x5D2;&#x5D3;&#x5D9;&#x5E8; &#x5D1;&#x5D0;&#x5D5;&#x5E4;&#x5DF; &#x5E4;&#x5D5;&#x5E8;&#x5DE;&#x5DC;&#x5D9; &#x5D0;&#x5EA; &#x5D4;&#x5DE;&#x5D9;&#x5DC;&#x5D9;&#x5DD; &#x5D4;&#x5DC;&#x5DC;&#x5D5;.
+      </t>
     </abstract>
   </front>
   <middle>
-    <section title="כמה דקות">
-      <t><![CDATA[
-צירוף המילים הזה אומר שטווח הזמן הוא בין שתי דקות עד חמש עשרה דקות.
-]]></t>
+    <section title="&#x5DB;&#x5DE;&#x5D4; &#x5D3;&#x5E7;&#x5D5;&#x5EA;">
+      <t>
+&#x5E6;&#x5D9;&#x5E8;&#x5D5;&#x5E3; &#x5D4;&#x5DE;&#x5D9;&#x5DC;&#x5D9;&#x5DD; &#x5D4;&#x5D6;&#x5D4; &#x5D0;&#x5D5;&#x5DE;&#x5E8; &#x5E9;&#x5D8;&#x5D5;&#x5D5;&#x5D7; &#x5D4;&#x5D6;&#x5DE;&#x5DF; &#x5D4;&#x5D5;&#x5D0; &#x5D1;&#x5D9;&#x5DF; &#x5E9;&#x5EA;&#x5D9; &#x5D3;&#x5E7;&#x5D5;&#x5EA; &#x5E2;&#x5D3; &#x5D7;&#x5DE;&#x5E9; &#x5E2;&#x5E9;&#x5E8;&#x5D4; &#x5D3;&#x5E7;&#x5D5;&#x5EA;.
+      </t>
     </section>
     <!-- we are still entering the content, and have format work in progress status for this document -->
   </middle>
